@@ -1,0 +1,15 @@
+C:\Users\Davids PC001\Documents\Academic\CSIS1624\Assignment 1\2018355608\2018355608\bin\Debug\2018355608.exe.config
+C:\Users\Davids PC001\Documents\Academic\CSIS1624\Assignment 1\2018355608\2018355608\bin\Debug\2018355608.exe
+C:\Users\Davids PC001\Documents\Academic\CSIS1624\Assignment 1\2018355608\2018355608\bin\Debug\2018355608.pdb
+C:\Users\Davids PC001\Documents\Academic\CSIS1624\Assignment 1\2018355608\2018355608\obj\Debug\2018355608.csprojAssemblyReference.cache
+C:\Users\Davids PC001\Documents\Academic\CSIS1624\Assignment 1\2018355608\2018355608\obj\Debug\2018355608.csproj.CoreCompileInputs.cache
+C:\Users\Davids PC001\Documents\Academic\CSIS1624\Assignment 1\2018355608\2018355608\obj\Debug\2018355608.exe
+C:\Users\Davids PC001\Documents\Academic\CSIS1624\Assignment 1\2018355608\2018355608\obj\Debug\2018355608.pdb
+D:\ThinkPad backup\Academic\First Year\CSIS1624\Assignment 1\2018355608\2018355608\bin\Debug\2018355608.exe.config
+D:\ThinkPad backup\Academic\First Year\CSIS1624\Assignment 1\2018355608\2018355608\bin\Debug\2018355608.exe
+D:\ThinkPad backup\Academic\First Year\CSIS1624\Assignment 1\2018355608\2018355608\bin\Debug\2018355608.pdb
+D:\ThinkPad backup\Academic\First Year\CSIS1624\Assignment 1\2018355608\2018355608\obj\Debug\2018355608.csproj.AssemblyReference.cache
+D:\ThinkPad backup\Academic\First Year\CSIS1624\Assignment 1\2018355608\2018355608\obj\Debug\2018355608.csproj.SuggestedBindingRedirects.cache
+D:\ThinkPad backup\Academic\First Year\CSIS1624\Assignment 1\2018355608\2018355608\obj\Debug\2018355608.csproj.CoreCompileInputs.cache
+D:\ThinkPad backup\Academic\First Year\CSIS1624\Assignment 1\2018355608\2018355608\obj\Debug\2018355608.exe
+D:\ThinkPad backup\Academic\First Year\CSIS1624\Assignment 1\2018355608\2018355608\obj\Debug\2018355608.pdb
