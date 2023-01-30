@@ -1,2 +1,2 @@
-# serpinski_triangle
+# sierpinski_triangle
 This is a C# implementation of a sierpinski triangle 
